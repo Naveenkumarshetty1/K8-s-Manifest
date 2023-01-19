@@ -36,7 +36,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:  
-  name: wordpress-service
+  name: wordpress-Service
 spec:
   selector:    
     app: wordpress
