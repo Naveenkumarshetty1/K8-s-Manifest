@@ -1,1 +1,1 @@
-# K8-s-Manifest
+# K8s-Manifest
